@@ -11,7 +11,7 @@ with open('calls.csv', 'r') as f:
     reader = csv.reader(f)
     calls = list(reader)
 
-print(calls[1][:])
+
 """
 TASK 1:
 How many different telephone numbers are there in the records? 
