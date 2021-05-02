@@ -41,4 +41,4 @@ The objective is to identify numbers that might be doing telephone marketing.
 there are 2 "for loops" in this problem which have time complexity of 2n.
 Also, there is a sorted method used which has worst-case time-complexity of O(n log n).
 Other terms become irrelevant for large value of n and therefore can be discarded. 
-Big O for this task is 2n+O(nlogn) and can be represented as O(nlogn).
+Big O for this task is 2n+nlogn and can be represented as O(nlogn).
